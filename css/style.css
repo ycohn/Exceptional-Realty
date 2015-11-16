@@ -17,6 +17,7 @@ figcaption {
   font: bold 2.6em 'Clicker Script', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
+  background-color: aqua;
 }
 
 #logo {
